@@ -1,5 +1,6 @@
-#
+# remove other git clones
 custom/themes
+custom/plugins
 
 # temp files directories
 cache/
